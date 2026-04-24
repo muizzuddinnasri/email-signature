@@ -1,4 +1,4 @@
-# Pusat Rehabilitasi PERKESO - Corporate Email Signature
+# Corporate Email Signature
 
 This repository serves as the centralized Content Delivery Network (CDN) and version control for the official Pusat Rehabilitasi PERKESO HTML email signature.
 

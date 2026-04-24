@@ -5,6 +5,8 @@ This repository serves as the centralized Content Delivery Network (CDN) and ver
 ## 📌 Project Overview
 Many enterprise email clients and strict firewalls block images hosted on free image-sharing sites or Google Drive (via proxy blocking). To ensure our corporate branding renders consistently across all external communications, this signature framework utilizes GitHub as a free, reliable CDN to host organizational assets.
 
+> **🔒 Security & Confidentiality Note:** > The repository must remain set to **Public** for the CDN links to function in external email clients. **No confidential, internal, or sensitive corporate data is stored here.** All hosted assets (such as the gantry promotional banner) are strictly public-facing marketing materials designed exclusively to promote the PERKESO Rehab Centre. 
+
 ### Repository Contents
 * `signature.html`: The master HTML script containing the structural table layout, inline CSS (for maximum email client compatibility), and text placeholders.
 * `email signature.jpg`: The active promotional banner that appears at the bottom of the email signature.

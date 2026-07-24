@@ -1,11 +1,11 @@
 # Corporate Email Signature
 
-This repository serves as the centralized Content Delivery Network (CDN) and version control for the official Pusat Rehabilitasi PERKESO HTML email signature.
+This repository serves as the centralized Content Delivery Network (CDN) and version control for a corporate email signature.
 
 ## 📌 Project Overview
 Many enterprise email clients and strict firewalls block images hosted on free image-sharing sites or Google Drive (via proxy blocking). To ensure our corporate branding renders consistently across all external communications, this signature framework utilizes GitHub as a free, reliable CDN to host organizational assets.
 
-> **🔒 Security & Confidentiality Note:** > The repository must remain set to **Public** for the CDN links to function in external email clients. **No confidential, internal, or sensitive corporate data is stored here.** All hosted assets (such as the gantry promotional banner) are strictly public-facing marketing materials designed exclusively to promote the PERKESO Rehab Centre. 
+> **🔒 Security & Confidentiality Note:** > The repository must remain set to **Public** for the CDN links to function in external email clients. **No confidential, internal, or sensitive corporate data is stored here.** All hosted assets (such as the gantry promotional banner) are strictly public-facing marketing materials designed exclusively to promote the company. 
 
 ### Repository Contents
 * `signature.html`: The master HTML script containing the structural table layout, inline CSS (for maximum email client compatibility), and text placeholders.
@@ -22,7 +22,7 @@ The signature is built using a strict `<table>` structure rather than modern CSS
 The banner image is hardcoded into the HTML using GitHub's raw user content delivery link. 
 * **Current Banner Link:** `https://raw.githubusercontent.com/muizzuddinnasri/email-signature/refs/heads/main/email%20signature.jpg`
 
-*Note: The social media icons are dynamically generated using the Icons8 CDN to perfectly match the PERKESO maroon branding (`#8b2323`), bypassing the need to host individual icon files.*
+*Note: The social media icons are dynamically generated using the Icons8 CDN to perfectly match the maroon branding (`#8b2323`), bypassing the need to host individual icon files.*
 
 ---
 
